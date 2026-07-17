@@ -1,1 +1,3 @@
+# Getting Started
 
+This guide explains how to...
